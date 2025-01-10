@@ -7,4 +7,4 @@
 
 Extract only the country codes and CIDR notation addresses from the regional Internet registry records and convert them into CSV format.
 
-> "Regional Internet Registry into Country Code and CIDR" -> RIR CCCIDR -> `RIR C3IDR`
+> "Regional Internet Registry to Country Code and CIDR" -> RIR CCCIDR -> `RIR C3IDR`
